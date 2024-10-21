@@ -1,0 +1,19 @@
+1. Em que ano o modelo relacional de banco de dados foi desenvolvido? 1970
+
+2. Quem é considerado o "pai dos banco de dados relacionais"? Ted
+
+3. explique a diferença de um banco de dados, um sistema gerenciador de banco de dados
+e um sistema de banco de dados.
+
+*Banco de dados: informaçoes amarzenadas eletronicamente
+*Sistema gerenciador de banco de dados: é usado para armazenar dados variaveis de formatos
+*Sistema de banco de dados: é um sistema onde se armazena tudo de dados
+
+4.Quais sao as principais caracteristicas de um banco de dados? Organizaçao,Interidade e Segurança.
+
+5.Quais sao os diferentes niveis de banco de dados? Nivel Fisico, Nivel de abstração, Nivel lógico
+
+6. Liste as vantagens de usar banco de dados.
+* Acessibilidade
+* Segurança de dados
+* Aumento da produtividade
